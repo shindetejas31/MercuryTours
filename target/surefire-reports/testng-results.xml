@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-08-09T00:03:48 IST" name="Suite" finished-at="2023-08-09T00:04:24 IST" duration-ms="36306">
+    <groups>
+    </groups>
+    <test started-at="2023-08-09T00:03:48 IST" name="Test" finished-at="2023-08-09T00:04:24 IST" duration-ms="36306">
+      <class name="TestScenarios.LoginTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestScenarios.LoginTest@2053d869]" started-at="2023-08-09T00:04:01 IST" name="setup" finished-at="2023-08-09T00:04:05 IST" duration-ms="4436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestScenarios.LoginTest@2053d869]" started-at="2023-08-09T00:04:05 IST" name="Login" data-provider="GetLoginData" finished-at="2023-08-09T00:04:08 IST" duration-ms="2683" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rbajega]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Testing@123]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Login Successfully]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenarios.LoginTest@2053d869]" started-at="2023-08-09T00:04:08 IST" name="teardown" finished-at="2023-08-09T00:04:08 IST" duration-ms="233" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestScenarios.LoginTest@2053d869]" started-at="2023-08-09T00:04:08 IST" name="setup" finished-at="2023-08-09T00:04:12 IST" duration-ms="4044" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="Login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:TestScenarios.LoginTest@2053d869]" started-at="2023-08-09T00:04:12 IST" name="Login" data-provider="GetLoginData" finished-at="2023-08-09T00:04:24 IST" duration-ms="11602" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[rbajega]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[xassfafsyz]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Enter your userName and password correct]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenarios.LoginTest@2053d869]" started-at="2023-08-09T00:04:24 IST" name="teardown" finished-at="2023-08-09T00:04:24 IST" duration-ms="398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestScenarios.LoginTest -->
+      <class name="TestScenarios.RegisterTest">
+        <test-method is-config="true" signature="setup()[pri:0, instance:TestScenarios.RegisterTest@2f8dad04]" started-at="2023-08-09T00:03:48 IST" name="setup" finished-at="2023-08-09T00:03:58 IST" duration-ms="9558" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="RegWithAllData()[pri:1, instance:TestScenarios.RegisterTest@2f8dad04]" started-at="2023-08-09T00:03:58 IST" name="RegWithAllData" finished-at="2023-08-09T00:04:01 IST" duration-ms="2992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RegWithAllData -->
+        <test-method is-config="true" signature="teardown()[pri:0, instance:TestScenarios.RegisterTest@2f8dad04]" started-at="2023-08-09T00:04:01 IST" name="teardown" finished-at="2023-08-09T00:04:01 IST" duration-ms="309" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- TestScenarios.RegisterTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

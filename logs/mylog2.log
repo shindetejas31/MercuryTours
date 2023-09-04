@@ -1,0 +1,152 @@
+[DEBUG] 2023-08-22 23:28:03.761 [main] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-22 23:28:03.939 [main] LoginTest - Email got entered
+[DEBUG] 2023-08-22 23:28:04.040 [main] LoginTest - PW got Entered
+[DEBUG] 2023-08-22 23:28:06.686 [main] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-22 23:28:06.720 [main] LoginTest - User logged in
+[INFO ] 2023-08-22 23:28:06.722 [main] LoginTest - Login test got passed
+[DEBUG] 2023-08-22 23:28:06.914 [main] LoginTest - Browser got closed
+[DEBUG] 2023-08-22 23:28:11.736 [main] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-22 23:28:11.907 [main] LoginTest - Email got entered
+[DEBUG] 2023-08-22 23:28:12.033 [main] LoginTest - PW got Entered
+[DEBUG] 2023-08-22 23:28:13.082 [main] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-22 23:28:23.115 [main] LoginTest - User didn't logged in
+[INFO ] 2023-08-22 23:28:23.115 [main] LoginTest - Login test got passed
+[DEBUG] 2023-08-22 23:28:23.320 [main] LoginTest - Browser got closed
+[DEBUG] 2023-08-22 23:38:24.159 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-22 23:38:24.465 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-22 23:38:24.647 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-22 23:38:26.276 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-22 23:38:26.345 [TestNG-tests-2] LoginTest - User logged in
+[INFO ] 2023-08-22 23:38:26.348 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-08-22 23:38:26.829 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-08-22 23:38:31.567 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-22 23:38:31.865 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-22 23:38:32.261 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-22 23:38:34.093 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-22 23:38:44.135 [TestNG-tests-2] LoginTest - User didn't logged in
+[INFO ] 2023-08-22 23:38:44.135 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-08-22 23:38:44.419 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-08-23 00:12:28.665 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-23 00:12:28.868 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-23 00:12:29.054 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-23 00:12:32.583 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-23 00:12:32.650 [TestNG-tests-2] LoginTest - User logged in
+[INFO ] 2023-08-23 00:12:32.654 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-08-23 00:12:33.740 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-08-23 00:12:38.762 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-23 00:12:38.947 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-23 00:12:39.084 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-23 00:12:40.232 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-23 00:12:50.251 [TestNG-tests-2] LoginTest - User didn't logged in
+[INFO ] 2023-08-23 00:12:50.252 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-08-23 00:12:50.646 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-08-24 23:54:38.401 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-24 23:54:38.596 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-24 23:54:38.756 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-24 23:54:40.666 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-24 23:54:40.753 [TestNG-tests-2] LoginTest - User logged in
+[INFO ] 2023-08-24 23:54:40.756 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-08-24 23:54:41.235 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-08-24 23:54:46.163 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-24 23:54:46.338 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-24 23:54:46.443 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-24 23:54:47.510 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-24 23:54:57.561 [TestNG-tests-2] LoginTest - User didn't logged in
+[INFO ] 2023-08-24 23:54:57.561 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-08-24 23:54:57.749 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-08-26 23:38:59.272 [main] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-26 23:38:59.480 [main] LoginTest - Email got entered
+[DEBUG] 2023-08-26 23:38:59.622 [main] LoginTest - PW got Entered
+[DEBUG] 2023-08-26 23:39:01.049 [main] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-26 23:39:01.520 [main] LoginTest - User logged in
+[INFO ] 2023-08-26 23:39:01.523 [main] LoginTest - Login test got passed
+[DEBUG] 2023-08-26 23:39:01.817 [main] LoginTest - Browser got closed
+[DEBUG] 2023-08-26 23:39:07.017 [main] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-26 23:39:07.231 [main] LoginTest - Email got entered
+[DEBUG] 2023-08-26 23:39:07.371 [main] LoginTest - PW got Entered
+[DEBUG] 2023-08-26 23:39:08.480 [main] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-26 23:39:18.526 [main] LoginTest - User didn't logged in
+[INFO ] 2023-08-26 23:39:18.527 [main] LoginTest - Login test got passed
+[DEBUG] 2023-08-26 23:39:18.732 [main] LoginTest - Browser got closed
+[DEBUG] 2023-08-26 23:43:33.686 [main] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-26 23:43:33.948 [main] LoginTest - Email got entered
+[DEBUG] 2023-08-26 23:43:34.064 [main] LoginTest - PW got Entered
+[DEBUG] 2023-08-26 23:43:36.224 [main] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-26 23:43:36.257 [main] LoginTest - User logged in
+[INFO ] 2023-08-26 23:43:36.258 [main] LoginTest - Login test got passed
+[DEBUG] 2023-08-26 23:43:36.530 [main] LoginTest - Browser got closed
+[DEBUG] 2023-08-26 23:43:44.539 [main] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-26 23:43:44.758 [main] LoginTest - Email got entered
+[DEBUG] 2023-08-26 23:43:44.915 [main] LoginTest - PW got Entered
+[DEBUG] 2023-08-26 23:43:46.507 [main] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-26 23:43:56.549 [main] LoginTest - User didn't logged in
+[INFO ] 2023-08-26 23:43:56.549 [main] LoginTest - Login test got passed
+[DEBUG] 2023-08-26 23:43:56.863 [main] LoginTest - Browser got closed
+[DEBUG] 2023-08-26 23:44:48.142 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-26 23:44:48.462 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-26 23:44:48.627 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-26 23:44:50.718 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-26 23:44:50.807 [TestNG-tests-2] LoginTest - User logged in
+[INFO ] 2023-08-26 23:44:50.810 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-08-26 23:44:51.134 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-08-26 23:44:58.119 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-26 23:44:58.627 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-26 23:44:58.777 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-26 23:45:00.249 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-26 23:45:10.291 [TestNG-tests-2] LoginTest - User didn't logged in
+[INFO ] 2023-08-26 23:45:10.291 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-08-26 23:45:10.642 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-08-26 23:52:48.870 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-26 23:52:49.139 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-26 23:52:49.418 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-26 23:52:53.978 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-26 23:52:54.336 [TestNG-tests-2] LoginTest - User logged in
+[INFO ] 2023-08-26 23:52:54.341 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-08-26 23:52:54.732 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-08-26 23:53:06.664 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-26 23:53:06.800 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-26 23:53:06.900 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-26 23:53:08.107 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-26 23:53:18.162 [TestNG-tests-2] LoginTest - User didn't logged in
+[INFO ] 2023-08-26 23:53:18.162 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-08-26 23:53:18.473 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-08-27 00:03:36.541 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-27 00:03:36.872 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-27 00:03:37.052 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-27 00:03:41.859 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-27 00:03:42.587 [TestNG-tests-2] LoginTest - User logged in
+[INFO ] 2023-08-27 00:03:42.590 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-08-27 00:03:43.500 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-08-27 00:03:50.957 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-27 00:03:51.084 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-27 00:03:51.180 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-27 00:03:52.730 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-27 00:04:02.774 [TestNG-tests-2] LoginTest - User didn't logged in
+[INFO ] 2023-08-27 00:04:02.775 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-08-27 00:04:03.106 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-08-27 00:05:57.002 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-27 00:05:58.292 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-27 00:05:58.553 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-27 00:06:00.200 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-27 00:06:00.327 [TestNG-tests-2] LoginTest - User logged in
+[INFO ] 2023-08-27 00:06:00.331 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-08-27 00:06:01.006 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-08-27 00:06:08.454 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-27 00:06:08.744 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-27 00:06:08.898 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-27 00:06:09.973 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-27 00:06:20.018 [TestNG-tests-2] LoginTest - User didn't logged in
+[DEBUG] 2023-08-27 00:06:20.586 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-08-27 00:06:58.005 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-27 00:06:58.360 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-27 00:06:58.795 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-27 00:07:00.321 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-27 00:07:00.381 [TestNG-tests-2] LoginTest - User logged in
+[INFO ] 2023-08-27 00:07:00.384 [TestNG-tests-2] LoginTest - Login test got passed
+[DEBUG] 2023-08-27 00:07:00.903 [TestNG-tests-2] LoginTest - Browser got closed
+[DEBUG] 2023-08-27 00:07:08.338 [TestNG-tests-2] LoginTest - Browser and URL got launched
+[DEBUG] 2023-08-27 00:07:08.475 [TestNG-tests-2] LoginTest - Email got entered
+[DEBUG] 2023-08-27 00:07:08.609 [TestNG-tests-2] LoginTest - PW got Entered
+[DEBUG] 2023-08-27 00:07:09.805 [TestNG-tests-2] LoginTest - Clicked on submit button
+[DEBUG] 2023-08-27 00:07:19.846 [TestNG-tests-2] LoginTest - User didn't logged in
+[DEBUG] 2023-08-27 00:07:20.429 [TestNG-tests-2] LoginTest - Browser got closed
